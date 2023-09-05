@@ -1,0 +1,29 @@
+{
+  "name": "react-playlist-episode-02",
+  "version": "1.0.0",
+  "description": "React Tutorial in hindi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashrajotiya/React-Playlist-Episode-02.git"
+  },
+  "author": "Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashrajotiya/React-Playlist-Episode-02/issues"
+  },
+  "homepage": "https://github.com/prakashrajotiya/React-Playlist-Episode-02#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
